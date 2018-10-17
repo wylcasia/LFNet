@@ -25,7 +25,7 @@ doi={10.1109/TIP.2018.2834819}, ISSN={1057-7149}, month={Sept}}
 * `LFNet_Train_CN_With_IMsF.py` for training column network of LFNet
 
 ## Pre-trained Models
-* `2x` `3x` `4x` pre-trained models are supplied under the folder `model`.
+* `2x`/`3x`/`4x` pre-trained models are supplied under the folder `model`.
 
 ## Utilities
 * Find some useful functions in `LF2Gif_SceneInFolder_for_LFNet.py`, `algo_evaluation_index_for_LFNet.py ` and so on.
